@@ -1,4 +1,4 @@
- Qty, Type, Part, Value, Extended description, Unit price, Price [MOQ] LCSC part number, Link 
+ Qty, Type, Part, Value, Extended description, Unit price, Price [MOQ], LCSC part number, Link 
  ---, ---, ---, ---, ---, ---, ---, ---, --- 
  7, MLCC, CL05B104KB54PNC, 100nF, 0402, $0.014, $1.40 [100], C307331, https://www.lcsc.com/product-detail/C307331.html 
  3, MLCC, CL10A106MA8NRNC, 10µF, 0603, $0.14, $2.80 [20], C96446, https://www.lcsc.com/product-detail/C96446.html 
