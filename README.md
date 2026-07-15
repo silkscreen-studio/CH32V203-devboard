@@ -52,4 +52,8 @@ A simple CH32V203C8U6 devboard, with a 7x8 charlieplexed matrix and a 12P FPC fo
 | 1 | MCU | CH32V203C8U6 | | | $0.85 | $0.85 [1] | C6407762 | https://www.lcsc.com/product-detail/C6407762.html |
 | 1 | LDO | TLV75733PDBVR | | 3.3V LDO | $0.18 | $0.92 [5] | C485517 | https://www.lcsc.com/product-detail/C485517.html |
 | 1 | ESD protection | USBLC6-2P6 | | | $0.28 | $1.39 [5] | C15999 | https://www.lcsc.com/product-detail/C15999.html |
+| 1 | PCB | | | | $5 |  |  | https://jlcpcb.com/quote |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
+|  | TOTAL (price per board) | | | | $7.96 |  |  |  |
+|  | TOTAL (price due to MOQ) | | | | $16.67 |  |  |  |
