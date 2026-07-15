@@ -16,7 +16,6 @@ A simple CH32V203C8U6 devboard, with a 7x8 charlieplexed matrix and a 12P FPC fo
  - Boot and Reset Button
  - On board 3.3V LDO `TLV75733PDBVR`, 1A max current
 <br></br>
-<br></br>
 <p align="center">
 <img width="96.3%" alt="Render 1" src="IMGs/R1.png" />
 </p>
