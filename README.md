@@ -24,17 +24,23 @@ A simple CH32V203C8U6 devboard, with a 7x8 charlieplexed matrix and a 12P FPC fo
   <img width="52.3%" alt="Render 2" src="IMGs/R2.png" />
   <img width="44%" alt="Render 3" src="IMGs/R3.png" />
 </p>
+<br></br>
 
 # Schematic
 <img width="2533" alt="SCHEMATIC" src="CH32V203 devboard schematic.svg" />
+<br></br>
 
 # PCB layout
 <p align="center">
   <img width="46%" alt="Layout F" src="IMGs/CH32V203 devboard layout Front.png" />
   <img width="45%" alt="Layout B" src="IMGs/CH32V203 devboard layout Back.png" />
 </p>
+<br></br>
 
 # Pinout
+
+<img alt="Pinout" src="IMGs/Pinout CH32V203.png" />
+<br></br>
 
 # BOM
 
