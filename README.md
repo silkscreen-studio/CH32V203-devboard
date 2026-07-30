@@ -1,9 +1,12 @@
 # CH32V203 devboard
 A simple CH32V203C8U6 devboard, with a 7x8 charlieplexed matrix and a 12P FPC for IOs, beside the more common 2.54 headers for breadboard compatibility.
 
+<img width="1785" height="2529" alt="Zine" src="https://github.com/user-attachments/assets/9722de44-3aa6-4cf4-8ff0-4a3b27f956db" />
+
+
 # Key features 
  - CH32V203C8U6 MCU:
-    - FLASH: 64k
+    - FLASH: 64k (+224K non-zero-wait program memory)
     - SRAM: 20k
     - 144MHz CPU max clock speed
     - 37 GPIOs
