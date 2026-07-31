@@ -1,0 +1,3 @@
+[submodule "Silkscreen-Studio-Kicad-libraries"]
+	path = Silkscreen-Studio-Kicad-libraries
+	url = https://github.com/silkscreen-studio/Silkscreen-Studio-Kicad-libraries
