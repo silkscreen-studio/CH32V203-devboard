@@ -3,7 +3,7 @@
  *   Charlieplexed 7x8 LED matrix
  *
  *   After creating a new Mounriver Studio project and selecting the chip 'CH32V203C8U', the following main.c file can be replaced with the following code (in User>main.c)
- *   as the devboard doesn't comes with an external oscillator, the file 'system_ch32v00x.c has to be modified, changing the code as below:
+ *   as the devboard doesn't comes with an external oscillator, the file 'system_ch32v20x.c has to be modified, changing the code as below:
  *            //#define SYSCLK_FREQ_HSE    HSE_VALUE
  *            //#define SYSCLK_FREQ_48MHz_HSE  48000000
  *            //#define SYSCLK_FREQ_56MHz_HSE  56000000
