@@ -1,5 +1,7 @@
 # CH32V203 devboard
+
 A simple CH32V203C8U6 devboard, with a 7x8 charlieplexed matrix and a 12P FPC for IOs, beside the more common 2.54 headers for breadboard compatibility.
+<br></br>
 
 <img width="1785" height="2529" alt="Zine" src="https://github.com/user-attachments/assets/9722de44-3aa6-4cf4-8ff0-4a3b27f956db" />
 
@@ -18,7 +20,11 @@ A simple CH32V203C8U6 devboard, with a 7x8 charlieplexed matrix and a 12P FPC fo
  - 12P .5mm FPC for breaking out 9 more IOs
  - Boot and Reset Button
  - On board 3.3V LDO `TLV75733PDBVR`, 1A max current
+
+Demo with the charlieplexed LED matrix in action:
+https://youtube.com/shorts/uVbg5wJzLvo
 <br></br>
+
 <p align="center">
 <img width="96.3%" alt="Render 1" src="IMGs/R1.png" />
 </p>
@@ -26,6 +32,9 @@ A simple CH32V203C8U6 devboard, with a 7x8 charlieplexed matrix and a 12P FPC fo
   <img width="52.3%" alt="Render 2" src="IMGs/R2.png" />
   <img width="44%" alt="Render 3" src="IMGs/R3.png" />
 </p>
+
+
+
 <br></br>
 
 # Schematic
