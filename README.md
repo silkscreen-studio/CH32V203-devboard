@@ -15,6 +15,7 @@ A simple CH32V203C8U6 devboard, with a 7x8 charlieplexed matrix and a 12P FPC fo
     - Many peripherals (4x USART, 2x SPI, 2x I2C, 1x CAN, USB (FS))
     - 9 analog capable GPIOs
     - 12 PWM capable GPIOs
+ - USB-C for programming, USB device/host emulation, and power
  - 7x8 charlieplexed LED matrix (8 GPIOs)
  - 23x 2.54mm header pins
  - 12P .5mm FPC for breaking out 9 more IOs
