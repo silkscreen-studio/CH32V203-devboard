@@ -3,7 +3,8 @@
 A simple CH32V203C8U6 devboard, with a 7x8 charlieplexed matrix and a 12P FPC for IOs, beside the more common 2.54 headers for breadboard compatibility.
 <br></br>
 
-<img width="1785" height="2529" alt="Zine" src="https://github.com/user-attachments/assets/9722de44-3aa6-4cf4-8ff0-4a3b27f956db" />
+<img width="1785" height="2529" alt="ZINE V1 1" src="https://github.com/user-attachments/assets/51af5ab7-9869-4748-a393-8f66d51f835e" />
+
 
 
 # Key features 
